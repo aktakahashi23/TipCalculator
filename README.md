@@ -38,7 +38,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Experienced difficulty with transferring values from different scenes, as nil response error was prompted despite having a value when assigning to sliding bar max value. 
 
 ## License
 
